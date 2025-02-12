@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @24nirbhay
-- 👀 I’m interested in Ui/Ux
-- 🌱 I’m currently learning react.js 
+- 👀 I’m interested in U-i|Ux
+- 🌱 I’m currently learning REACT.js
 
 <!---
 24nirbhay/24nirbhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
