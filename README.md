@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Pacman contribution graph with dark/light mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24nirbhay/output/pacman-contribution-graph-dark.svg">
+  
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/24nirbhay/output/pacman-contribution-graph.svg">
 </picture>
 
