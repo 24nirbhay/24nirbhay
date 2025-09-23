@@ -55,15 +55,8 @@ You can click the Preview link to take a look at your changes.
 
 ###
 <div align="center">
-  <!-- Visitor badge: No trailing '&' in the URL -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=24nirbhay.24nirbhay" />
 </div>
-
-<!-- Pacman contribution graph with dark/light mode -->
-<picture>
-  
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/24nirbhay/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
