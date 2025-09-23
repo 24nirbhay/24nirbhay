@@ -54,15 +54,18 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=24nirbhay.24nirbhay&"  />
+  <!-- Visitor badge: No trailing '&' in the URL -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=24nirbhay.24nirbhay" />
 </div>
+
+<!-- Pacman contribution graph with dark/light mode -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24nirbhay/24nirbhay/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/24nirbhay/24nirbhay/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/24nirbhay/24nirbhay/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
 
 
