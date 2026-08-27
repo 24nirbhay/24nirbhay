@@ -5,7 +5,7 @@
 - 🌱 & currently learning - QA AUTOMATION | PYTHON | PLAYWRIGHT | POSTMAN
 
 <a href="https://www.linkedin.com/in/nirbhay-gaude">
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="38" alt="LinkedIn" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="38" alt="LinkedIn"  align="left"/><p>Connect here</p>
 </a>
 
 </div>
