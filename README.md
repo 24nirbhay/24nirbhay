@@ -3,8 +3,8 @@
 - 👋 Hi, I'm NIRBHAY
 - 👀 I'm interested in EVERYTHING.
 - 🌱 & currently learning - QA AUTOMATION | PYTHON | PLAYWRIGHT | POSTMAN
-&nbsp;&nbsp;Connect here
-<a href="https://www.linkedin.com/in/nirbhay-gaude">
+
+&nbsp;&nbsp;Connect here<a href="https://www.linkedin.com/in/nirbhay-gaude">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="38" alt="LinkedIn" /> </a>
 
 
