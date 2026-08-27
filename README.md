@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 - 👋 Hi, I'm @24nirbhay
 - 👀 I'm interested in EVERYTHING.
@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,playwright,postman,jira,vscode,html,css,js,react,git,github,npm&theme=light" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=python,playwright,postman,jira,vscode,html,css,javascript,react,git,github,npm&theme=light" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vercel,gcp,mysql,supabase,figma,canva,keras,tensorflow,sklearn,matplotlib&theme=light" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=vercel,gcp,mysql,supabase,figma,canva,tensorflow,sklearn&theme=light" />
 
 </div>
 
@@ -34,17 +34,17 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity" height="300" alt="github activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity" height="300" alt="github activity graph" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-readme-stats.shion.dev/api?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="github stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="github stats" />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6" height="150" alt="top languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6" height="150" alt="top languages" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=24nirbhay&theme=dracula&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8" height="150" alt="github trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=24nirbhay&theme=dracula&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8" height="150" alt="github trophies" />
 
 </div>
 
@@ -53,7 +53,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nirbhay-gaude">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="38" alt="linkedin logo" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="38" alt="linkedin logo" />
 </a>
 
 </div>
