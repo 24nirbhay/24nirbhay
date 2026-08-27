@@ -33,9 +33,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24nirbhay&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=6" height="150" alt="Top languages" />
 
 <br><br>
 
