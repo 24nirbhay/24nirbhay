@@ -10,34 +10,7 @@
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=playwright" height="42" alt="playwright logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=jira" height="42" alt="jira logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="42" alt="selenium logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=gherkin" height="42" alt="gherkin logo" />
-  <img width="10" />
-
-  <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="github actions logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=python,playwright,postman,jira,selenium,githubactions,git,github,vscode,bash,linux,docker,html,css,js,react,supabase,mysql,figma,canva,gcp,vercel,npm&theme=light&perline=12" />
 
 </div>
 
@@ -75,9 +48,9 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nirbhay-gaude">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="linkedin logo" />
-  </a>
+<a href="https://www.linkedin.com/in/nirbhay-gaude">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="38" alt="linkedin logo" />
+</a>
 
 </div>
 
