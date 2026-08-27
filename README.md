@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity" height="300" alt="github activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay&theme=react-dark&hide_border=true&area=true" height="300" alt="GitHub activity graph" />
 
 <br><br>
 
