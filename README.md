@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/nirbhay-gaude">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="38" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nirbhay-gaude">Connect here</a>
 
 </div>
 
@@ -41,32 +43,6 @@
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=24nirbhay&theme=dark&hide_border=true" height="150" alt="GitHub streak" />
-
-</div>
-
-###
-
-<h2 align="center">Popular Repositories</h2>
-
-<div align="center">
-
-<a href="https://github.com/24nirbhay/final1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24nirbhay&repo=final1&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/24nirbhay/isl_to_konkani">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24nirbhay&repo=isl_to_konkani&theme=dark&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/24nirbhay/working-isl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24nirbhay&repo=working-isl&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/24nirbhay/kontent4u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24nirbhay&repo=kontent4u&theme=dark&hide_border=true" />
-</a>
 
 </div>
 
