@@ -10,7 +10,11 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,playwright,postman,jira,selenium,githubactions,git,github,vscode,bash,linux,docker,html,css,js,react,supabase,mysql,figma,canva,gcp,vercel,npm&theme=light&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,playwright,postman,jira,selenium,gherkin,githubactions,git,github,vscode,bash,linux&theme=light" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,supabase,mysql,figma,gcp,vercel,npm&theme=light" />
 
 </div>
 
