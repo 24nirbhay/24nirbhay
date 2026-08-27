@@ -1,8 +1,8 @@
 <div align="left">
 
-- 👋 Hi, I'm @24nirbhay
+- 👋 Hi, I'm NIRBHAY
 - 👀 I'm interested in EVERYTHING.
-- 🌱 I'm currently learning QA AUTOMATION, PYTHON, PLAYWRIGHT, POSTMAN
+- 🌱 &  currently learning - QA AUTOMATION | PYTHON | PLAYWRIGHT | POSTMAN
 
 </div>
 
@@ -19,10 +19,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <sub>QA Automation • Manual Testing • API Testing • Python</sub>
-</div>
 
 ###
 
