@@ -4,8 +4,8 @@
 - 👀 I'm interested in EVERYTHING.
 - 🌱 & currently learning - QA AUTOMATION | PYTHON | PLAYWRIGHT | POSTMAN
 
-<a href="[https://www.linkedin.com/in/nirbhay-gaude-](https://www.linkedin.com/in/nirbhaygaude24/)">
-  Connect here <img src="https://skill-icons-v2.vercel.app/api/icons?i=linkedin&theme=light" height="28" alt="LinkedIn" align="middle" />
+<a href="https://www.linkedin.com/in/nirbhay-gaude">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="Connect on LinkedIn" />
 </a>
 </div>
 
