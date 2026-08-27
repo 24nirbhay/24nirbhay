@@ -23,14 +23,14 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF1MjY4MGtuMmVwbXh4d3pvaTRrbXF5YXJuZWM0MmtudWhiejB6MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U2nN0ridM4lXy/giphy.gif" />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxrNmRsajMycm43N3cyMG5qbTg0b2F2cjQ3eWdxb21ldnYydTQyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KtYG8BndKBmWrM4/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay&theme=react-dark&hide_border=true&area=true" height="300" alt="GitHub activity graph" />
+[![24nirbhay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay)](https://github.com/24nirbhay)
 
 <br><br>
 
