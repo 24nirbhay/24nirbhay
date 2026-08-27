@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![24nirbhay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24nirbhay)](https://github.com/24nirbhay)
+[!](https://github.com/24nirbhay)
 
 <br><br>
 
