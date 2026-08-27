@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 - 👋 Hi, I'm @24nirbhay
 - 👀 I'm interested in EVERYTHING.
